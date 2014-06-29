@@ -4,7 +4,7 @@ Ubuntu Linux:
 
 Generate keys:
 	python genkey.py
-# Need enter the passphrase, else private key won't be able to store
+	Need enter the passphrase, else private key won't be able to store
 
 Or:
 	./genrsakey.sh
@@ -23,7 +23,7 @@ Ubuntu Linux:
 
 生成密钥:
 	python genkey.py
-#需要设置密码，否则私钥无法储存
+	需要设置密码，否则私钥无法储存
 或:
 	./genrsakey.sh
 
