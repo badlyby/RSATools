@@ -14,12 +14,12 @@ When using need to install python M2Crypto library
 ### Encryption:
 > need to generate the pub-key.pem
 
-    python encrypto.py file
+    python encrypt.py file
 
 ### Decryption:
 > need to generate the key.pem
 
-    python decrypto.py file
+    python decrypt.py file
 
 
 
@@ -39,9 +39,9 @@ When using need to install python M2Crypto library
 ### 加密:
 > 需要生成的pub-key.pem
 
-    python encrypto.py 文件
+    python encrypt.py 文件
 
 ### 解密:
 > 需要生成的key.pem
 
-    python decrypto.py 文件
+    python decrypt.py 文件
