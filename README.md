@@ -2,6 +2,10 @@ When using need to install python M2Crypto library
 
 ### Ubuntu Linux:
     sudo apt-get install python-m2crypto
+### Other OS:
+> You can download the source in
+
+    https://github.com/martinpaljak/M2Crypto
 
 ### Generate keys:
 > Need enter the passphrase, else private key won't be able to store
@@ -27,6 +31,9 @@ When using need to install python M2Crypto library
 -----------------------------------
 ### Ubuntu Linux:
     sudo apt-get install python-m2crypto
+
+### 其他系统:
+> 你可以在 https://github.com/martinpaljak/M2Crypto 下载到源码
 
 ### 生成密钥:
 > 需要设置密码，否则私钥无法储存
